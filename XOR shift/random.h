@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+#include <stdint.h>
 
 uint64_t state[2] = {0xffff, 0xffffffff};
 
